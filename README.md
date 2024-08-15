@@ -2,6 +2,10 @@
 
 `create-py-app` is a command-line tool that generates a basic Python project structure, similar to `create-react-app` for React projects. It sets up a lightweight yet professional folder structure with some best practices in mind, helping you kickstart your Python projects quickly and efficiently.
 
+## In action 
+### CMD 
+![Create using cmd](demo\create_new_app_from_cmd.gif)
+
 ## Features
 
 - Creates a basic Python project structure
