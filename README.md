@@ -4,7 +4,7 @@
 
 ## In action 
 ### CMD 
-![Create using cmd](demo\create_new_app_from_cmd.gif)
+![Create using cmd](https://github.com/KindEmily/create-py-app/blob/main/demo/create_new_app_from_cmd.gif)
 
 ## Features
 
