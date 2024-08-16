@@ -1,3 +1,17 @@
+# TODO: 
+Refactor defualt code structure to this:
+```
+# Example 
+export-for-ai/
+├── src/
+│   └── export_for_ai/
+│       ├── __init__.py
+│       └── main.py
+├── tests/
+├── setup.py
+└── README.md
+``` 
+
 # create-py-app
 
 `create-py-app` is a command-line tool that generates a basic Python project structure, similar to `create-react-app` for React projects. It sets up a lightweight yet professional folder structure with some best practices in mind, helping you kickstart your Python projects quickly and efficiently.
